@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FigmaMcpServer/FigmaMcpServer.csproj" />
+  <Project Path="GoogleDriveMcpServer/GoogleDriveMcpServer.csproj" />
+  <Project Path="OrchestratorServer.Api/OrchestratorServer.Api.csproj" />
+  <Project Path="OrchestratorServer.Domain/OrchestratorServer.Domain.csproj" />
+  <Project Path="OrchestratorServer.Infrastructure/OrchestratorServer.Infrastructure.csproj" />
+</Solution>

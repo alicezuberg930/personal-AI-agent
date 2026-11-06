@@ -1,0 +1,16 @@
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\OrchestratorServer.Api.Api.csproj.AssemblyReference.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\OrchestratorServer.Api.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\OrchestratorServer.Api.Api.AssemblyInfoInputs.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\OrchestratorServer.Api.Api.AssemblyInfo.cs
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\OrchestratorServer.Api.Api.csproj.CoreCompileInputs.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\OrchestratorServer.Api.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Api\obj\Debug\net10.0\OrchestratorServer.Api.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\OrchestratorServer.Api.csproj.AssemblyReference.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\OrchestratorServer.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\OrchestratorServer.Api.AssemblyInfoInputs.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\OrchestratorServer.Api.AssemblyInfo.cs
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\OrchestratorServer.Api.csproj.CoreCompileInputs.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\OrchestratorServer.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\personal-AI-agent\OrchestratorServer.Api\obj\Debug\net10.0\OrchestratorServer.Api.MvcApplicationPartsAssemblyInfo.cache

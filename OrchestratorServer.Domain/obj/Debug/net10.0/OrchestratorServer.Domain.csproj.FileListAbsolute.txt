@@ -1,0 +1,11 @@
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\bin\Debug\net10.0\OrchestratorServer.Api.Domain.deps.json
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\bin\Debug\net10.0\OrchestratorServer.Api.Domain.dll
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\bin\Debug\net10.0\OrchestratorServer.Api.Domain.pdb
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\OrchestratorServer.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\OrchestratorServer.Api.Domain.AssemblyInfoInputs.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\OrchestratorServer.Api.Domain.AssemblyInfo.cs
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\OrchestratorServer.Api.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\OrchestratorServer.Api.Domain.dll
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\refint\OrchestratorServer.Api.Domain.dll
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\OrchestratorServer.Api.Domain.pdb
+D:\Projects\personal-AI-agent\OrchestratorServer.Api.Domain\obj\Debug\net10.0\ref\OrchestratorServer.Api.Domain.dll

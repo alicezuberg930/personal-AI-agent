@@ -1,0 +1,46 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: unless-stopped
+
+    ports:
+      - "11434:11434"
+
+    volumes:
+      - ollama_data:/root/.ollama
+
+    # configure GPU support for NVIDIA GPUs
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [ gpu ]
+
+    healthcheck:
+      test: [ "CMD", "ollama", "list" ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 15s
+
+  ollama-model-init:
+    image: ollama/ollama:latest
+    container_name: ollama-init
+
+    depends_on:
+      ollama:
+        condition: service_healthy
+
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+
+    entrypoint: [ "/bin/sh", "-c" ]
+    command: [ "ollama pull qwen3.5:4b" ]
+
+    restart: "no"
+
+volumes:
+  ollama_data:
